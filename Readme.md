@@ -1,6 +1,6 @@
-# intelligence-system
+# Intelligence System (Automated)
 
-Two n8n workflows that pull newsletters, news RSS, and podcast show notes into structured Notion briefs — fully automated, AI-summarised, and manageable entirely from a Notion database.
+Two n8n workflows that pull newsletters, news RSS and podcast show notes into structured Notion briefs — fully automated, AI-summarised, and manageable entirely from a Notion database.
 
 ## What it does
 
@@ -13,7 +13,7 @@ Two n8n workflows that pull newsletters, news RSS, and podcast show notes into s
 | Layer | Tool | Cost |
 |---|---|---|
 | Automation | n8n (local, Mac + Windows) | Free |
-| AI — Primary | Google Gemini 1.5 Flash | Free tier |
+| AI — Primary | Google Gemini 2.5 Flash | Free tier |
 | AI — Fallback | Ollama (local) | Free |
 | Output | Notion | Free |
 | Email | Gmail | Free |
